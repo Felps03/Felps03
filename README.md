@@ -13,3 +13,5 @@ My name is Felipe Santos and I absolutely love Technology!
 - 💻 **Languages:** HTML, CSS, JavaScript, Node.js, React, Angular, AWS and looking forward to learn even more!
 - 🔧 **Tools:** Visual Studio Code, GitHub
 - 🎓 **Academic:** Technology in System Analysis and Development
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Felps03&show_icons=true" alt="Felps03" /> </p>
