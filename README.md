@@ -14,4 +14,7 @@ My name is Felipe Santos and I absolutely love Technology!
 - 🔧 **Tools:** Visual Studio Code, GitHub
 - 🎓 **Academic:** Technology in System Analysis and Development
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Felps03&show_icons=true" alt="Felps03" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felps03&show_icons=true" alt="Felps03" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Felps03" alt="Most Used Languages">
+</p>
